@@ -15,9 +15,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-
+        <activity android:name=".SelectCrop"></activity>
+        <activity android:name=".SelectLanguage" />
         <activity android:name=".Dashboard" />
-        <activity android:name=".Initiate">
+        <activity
+            android:name=".Initiate"
+            android:theme="@style/AppTheme.SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

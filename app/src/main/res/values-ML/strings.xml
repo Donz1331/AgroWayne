@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Agro Wayne</string>
+    <string name="temp">താപനില</string>
+    <string name="wind">കാറ്റ്</string>
+    <string name="rain">മഴ</string>
+    <string name="humi">ഈര്‍പ്പം</string>
+    <string name="temp_unit">%1$s°C</string>
+    <string name="humi_unit">%1$s%%</string>
+    <string name="wind_unit">%1$skm/h</string>
+    <string name="rain_unit">%1$smm</string>
+    <string name="na">-/-</string>
+    <string name="last_update">അവസാനം പുതുക്കിയത് :</string>
+
+    <string name="english_radio">English</string>
+    <string name="malayalam_radio">മലയാളം</string>
+    <string name="App_Title">Agro Wayne</string>
+
+    <string name="lang_title">ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+    <string name="crop_title">വിള തിരഞ്ഞെടുക്കുക</string>
+
+    <string name="crop_rice">നെല്ല്</string>
+    <string name="crop_tea">തേയില</string>
+    <string name="crop_coffee">കാപ്പി</string>
+    <string name="crop_bpepper">കുരുമുളക്</string>
+    <string name="need_crop">ഒരു വിളയെങ്കിലും തിരഞ്ഞെടുക്കുക</string>
+    <string name="description">വിളയുടെ ആയുസ്സ് കൂട്ടു</string>
+
+    <string name="daily_task">ഇന്ന് ചെയ്യേണ്ടത്</string>
+    <string name="weekly_task">ഈ ആഴ്ച</string>
+    <string name="monthly_task">ഈ മാസം </string>
+    <string name="menu_lang">ഭാഷ മാറ്റുക</string>
+    <string name="menu_crops">വിള മാറ്റുക</string>
+    <string name="about_title">ആപ്പിനെ കുറിച്ച്</string>
+
+
+</resources>

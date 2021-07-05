@@ -4,6 +4,16 @@
     <color name="colorPrimaryDark">#000</color>
     <color name="colorAccent">#000</color>
 
+    <color name="dark_text">#535353</color>
+    <color name="dark_light_text">#656565</color>
+
     <color name="chart_grad_top">#6DD5FA</color>
     <color name="chart_grad_bottom">#fff</color>
+    <color name="next_icon">#BA00C1F1</color>
+
+    <color name="cards">#BFEEFF</color>
+    <color name="day_card">#63cdda</color>
+    <color name="week_card">#a29bfe</color>
+    <color name="month_card">#f3a683</color>
+
 </resources>

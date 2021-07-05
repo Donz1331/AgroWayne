@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linear_checks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="50dp"
+        android:paddingVertical="20dp"
+        android:gravity="left|center"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/check_tea"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/crop_tea"
+            android:buttonTint="@android:color/darker_gray"
+            android:textColor="@color/dark_light_text"
+            android:textSize="20sp"/>
+        <CheckBox
+            android:id="@+id/check_rice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/crop_rice"
+            android:buttonTint="@android:color/darker_gray"
+            android:textColor="@color/dark_light_text"
+            android:textSize="20sp"/>
+        <CheckBox
+            android:id="@+id/check_coffee"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/crop_coffee"
+            android:buttonTint="@android:color/darker_gray"
+            android:textColor="@color/dark_light_text"
+            android:textSize="20sp"/>
+        <CheckBox
+            android:id="@+id/check_bpepper"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/crop_bpepper"
+            android:buttonTint="@android:color/darker_gray"
+            android:textColor="@color/dark_light_text"
+            android:textSize="20sp"/>
+
+        <Button
+            android:id="@+id/crop_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Done"
+            android:layout_gravity="bottom|center"
+            android:layout_margin="20dp"
+            android:background="@color/cards"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,12 +1,35 @@
 <resources>
     <string name="app_name">Agro Wayne</string>
-    <string name="temp">temperature</string>
-    <string name="humi">humidity</string>
+    <string name="temp">Temperature</string>
     <string name="wind">Wind</string>
-    <string name="rain">rainfall</string>
+    <string name="rain">Rainfall</string>
+    <string name="humi">Humidity</string>
     <string name="temp_unit">%1$s°C</string>
     <string name="humi_unit">%1$s%%</string>
     <string name="wind_unit">%1$skm/h</string>
     <string name="rain_unit">%1$smm</string>
     <string name="na">-/-</string>
+    <string name="last_update">"Last updated at: "</string>
+
+    <string name="english_radio">English</string>
+    <string name="malayalam_radio">മലയാളം</string>
+
+    <string name="lang_title">Select a Language</string>
+    <string name="crop_title">Select Crop</string>
+    <string name="App_Title">Agro Wayne</string>
+
+    <string name="crop_rice">Rice</string>
+    <string name="crop_tea">Tea</string>
+    <string name="crop_coffee">Coffee</string>
+    <string name="crop_bpepper">Black Pepper</string>
+    <string name="need_crop">Select atleast one crop</string>
+    <string name="description">Improve or prevent loss of crops by taking a step ahead</string>
+    <string name="daily_task">Daily Task</string>
+    <string name="weekly_task">Weekly Task</string>
+    <string name="monthly_task">Monthly Task</string>
+    <string name="menu_lang">Change Language</string>
+    <string name="menu_crops">Change Crops</string>
+    <string name="about_title">About</string>
+
+
 </resources>
